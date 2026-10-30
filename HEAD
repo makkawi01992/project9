@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 1ecdfc015339eec9c291bd9a7d4c4f4fdc2defa6 makkawi01992 <makkawi01992@gmail.com> 1793351154 -0800	commit (initial): Initial client project
+1ecdfc015339eec9c291bd9a7d4c4f4fdc2defa6 b0c5b9514bf7f36102587e90273fa43dccd1d682 makkawi01992 <makkawi01992@gmail.com> 1793352612 -0800	commit: first commit
+b0c5b9514bf7f36102587e90273fa43dccd1d682 0000000000000000000000000000000000000000 makkawi01992 <makkawi01992@gmail.com> 1793352613 -0800	Branch: renamed refs/heads/main to refs/heads/main
+b0c5b9514bf7f36102587e90273fa43dccd1d682 b0c5b9514bf7f36102587e90273fa43dccd1d682 makkawi01992 <makkawi01992@gmail.com> 1793352613 -0800	Branch: renamed refs/heads/main to refs/heads/main
+b0c5b9514bf7f36102587e90273fa43dccd1d682 e4b686933247553880eddf88750e183b2b86b4f5 makkawi01992 <makkawi01992@gmail.com> 1793355473 -0800	commit: Add Cloudflare Workers static asset deployment
+e4b686933247553880eddf88750e183b2b86b4f5 00c9f5853b815e1e2b2552b96c4a5c6060c21e69 makkawi01992 <makkawi01992@gmail.com> 1793355690 -0800	commit: Use a supported Cloudflare compatibility date
